@@ -7,7 +7,7 @@
 
 
 ### Corpus Description
-This corpus contains 10 American Presidential Inaugural Speeches. It consits of the first five presidential inaugurals (1789, 1793, 1797, 1801, 1805) as well as the last five presidential inaugurals (2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
+This corpus contains 10 American Presidential Inaugural Speeches. It consists of the first five presidential inaugurals (1789, 1793, 1797, 1801, 1805) as well as the last five presidential inaugurals (2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
 
 ### Target Audience
 The dataset is intended for scholars and others that are interested American political culture, rhetoric, and history as well as humanists interested in the 
