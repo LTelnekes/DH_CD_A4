@@ -58,7 +58,6 @@ To the original CSV I used the spaCy library to add Doc, Tokens, Lemma's, Part-O
 | NE_Words          | The words assigned to the Named Entities in the transcripts |
 
 
-
-Doc,Tokens,Lemmas,POS,Proper_Nouns,Named_Entities,NE_Words
 ### Additional Notes
 - A more complete comparative analysis would include all the Inaugural Adresses and would dive deeper into contextual information to arrive at more nuanced conclusions.
+- I have added some examples of how you can use this coprus and dataframe to make visualizations which can serve as the basis of new research
