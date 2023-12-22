@@ -1,4 +1,4 @@
-# Collecting-Data - Assignment 4
+# Collecting Data - Assignment 4
 ## Past vs. Present: American Presidential Inaugurals
 
 <img src="https://github.com/LTelnekes/Collecting-Data---A4/blob/main/Presidents_Image.jpg?raw=true" alt="Presidents in Corpus" height="500" align="center"/> 
