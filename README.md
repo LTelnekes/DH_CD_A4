@@ -58,5 +58,3 @@ To the original CSV I used the spaCy library to add Doc, Tokens, Lemma's, Part-O
 
 ### Additional Notes
 - A more complete comparative analysis would include all the Inaugural Adresses and would dive deeper into contextual information to arrive at more nuanced conclusions.
-- 
-
