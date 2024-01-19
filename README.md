@@ -1,7 +1,7 @@
 # Collecting Data - Assignment 4
 ## Past vs. Present: American Presidential Inaugurals
 
-<img src="https://github.com/LTelnekes/Collecting-Data---A4/blob/main/Presidents_Image.jpg?raw=true" alt="Presidents in Corpus" height="500" align="center"/> 
+<img src="https://github.com/LTelnekes/DH_CD_A4/blob/main/Presidents_Image.JPG" alt="Presidents in Corpus" height="500" align="center"/> 
 
 [Official Portraits of Presidents in this Corpus](https://www.loc.gov/free-to-use/presidential-portraits/)
 
