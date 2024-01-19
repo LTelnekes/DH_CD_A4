@@ -7,7 +7,7 @@
 
 
 ### Corpus Description
-This corpus contains 20 American Presidential Inaugural Speeches. It consists of the first ten presidential inaugurals (1789, 1793, 1797, 1801, 1805, 1809, 1813, 1817, 1821, 1825) as well as the last ten presidential inaugurals (1985, 1989, 1993, 1997, 2001, 2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
+This corpus contains 20 American Presidential Inaugural Adresses. It consists of the first ten presidential inaugurals (1789, 1793, 1797, 1801, 1805, 1809, 1813, 1817, 1821, 1825) as well as the last ten presidential inaugurals (1985, 1989, 1993, 1997, 2001, 2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
 
 ### Target Audience
 The dataset is intended for scholars and others that are interested American political culture, rhetoric, and history as well as humanists interested in the 
@@ -17,7 +17,7 @@ analysis of linguistic trends within the genre of the American political inaugur
 The corpus is designed for research purposes, allowing for the study of language and rhetoric within the inaugural adresses of these American Presidents, as well as a comparitive analysis. The CSV-file can be used for several analyses, as well as the conservation of these 10 inaugural adresses. 
 
 ### Text Selection Criteria
-The speeches in the corpus were selected by the time they were given by the President. As the limits of this assignment only allowed for a certain sized corpus, the first 5 inaugurals in the history of the U.S. were selected, as well as the 5 most recent inaugurals. By selecting the same amount of speeches in both time periods, the dataset represents a relevant and representative corpus for comparision. 
+The speeches in the corpus were selected by the time they were given by the President. As the limits of this assignment only allowed for a certain sized corpus, the first ten inaugurals in the history of the U.S. were selected, as well as the ten most recent inaugurals. By selecting the same amount of speeches in both time periods, the dataset represents a relevant and representative corpus for comparision. 
 
 ### Data Collection Process
 The transcripts of the speeches were collected from [The American Presidency Project](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/inaugural-addresses). The metadata was created in line with this assignment's criteria and collected from the same source. The President's Inaugural Adresses are available through many online resources, and according to [New Media Rights](https://www.newmediarights.org/business_models/artist/president%E2%80%99s_inaugural_speech_public_domain) belongs to the public domain, "because of the general rule that all works created by the federal government are in the public domain."
