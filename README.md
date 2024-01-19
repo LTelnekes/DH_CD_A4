@@ -1,13 +1,13 @@
 # Collecting Data - Assignment 4
 ## Past vs. Present: American Presidential Inaugurals
 
-<img src="https://github.com/LTelnekes/DH_CD_A4/blob/main/Presidents_Image.JPG" alt="Presidents in Corpus" height="430" align="center"/> 
+<img src="https://github.com/LTelnekes/DH_CD_A4/blob/main/Presidents_Image.JPG" alt="Presidents in Corpus" height="460" align="center"/> 
 
 [Official Portraits of Presidents in this Corpus](https://www.loc.gov/free-to-use/presidential-portraits/)
 
 
 ### Corpus Description
-This corpus contains 10 American Presidential Inaugural Speeches. It consists of the first five presidential inaugurals (1789, 1793, 1797, 1801, 1805) as well as the last five presidential inaugurals (2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
+This corpus contains 20 American Presidential Inaugural Speeches. It consists of the first ten presidential inaugurals (1789, 1793, 1797, 1801, 1805, 1809, 1813, 1817, 1821, 1825) as well as the last ten presidential inaugurals (1985, 1989, 1993, 1997, 2001, 2005, 2009, 2013, 2017, 2021). This collection was created to explore the potential change of the rhetorical genre of the presidential inaugural speech over time. The results can potentially demonstrate shifts in trends, as well as relevant topics in presidential discourse at the wake of a new administration entering the White House. 
 
 ### Target Audience
 The dataset is intended for scholars and others that are interested American political culture, rhetoric, and history as well as humanists interested in the 
@@ -24,7 +24,7 @@ The transcripts of the speeches were collected from [The American Presidency Pro
 
 
 ### Cleaning and Preprocessing
-The transcripts of the speeches are stored in seperate txt files, so in total, 10 seperate txt files were collected and converted and merged with a CSV file of metadata in a Python Dataframe. Using Python, the text in the speeches were cleaned for analysis and storing. Furthermore, tokenization and lemmatization were applied to standardize the language in the corpus.
+The transcripts of the speeches are stored in seperate txt files, so in total, 20 seperate txt files were collected and converted and merged with a CSV file of metadata in a Python Dataframe. Using Python, the text in the speeches were cleaned for analysis and storing. Furthermore, tokenization and lemmatization were applied to standardize the language in the corpus.
 
 
 ### Annotations
