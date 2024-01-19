@@ -14,7 +14,7 @@ The dataset is intended for scholars and others that are interested American pol
 analysis of linguistic trends within the genre of the American political inaugural address, analyzed through digital tools and methods. 
 
 ### Intended Use
-The corpus is designed for research purposes, allowing for the study of language and rhetoric within the inaugural adresses of these American Presidents, as well as a comparitive analysis. The CSV-file can be used for several analyses, as well as the conservation of these 10 inaugural adresses. 
+The corpus is designed for research purposes, allowing for the study of language and rhetoric within the inaugural adresses of these American Presidents, as well as a comparitive analysis. The CSV-file can be used for several analyses, as well as the conservation of these ten inaugural adresses. 
 
 ### Text Selection Criteria
 The speeches in the corpus were selected by the time they were given by the President. As the limits of this assignment only allowed for a certain sized corpus, the first ten inaugurals in the history of the U.S. were selected, as well as the ten most recent inaugurals. By selecting the same amount of speeches in both time periods, the dataset represents a relevant and representative corpus for comparision. 
